@@ -160,7 +160,7 @@ mutation {
 
 ## ✨ Autor
 
-Desarrollado por [Tu Nombre Aquí] — inspirado en la comunidad NestJS.
+Desarrollado por Sebastián Feliú — inspirado en la comunidad NestJS.
 
 ## 📝 Licencia
 

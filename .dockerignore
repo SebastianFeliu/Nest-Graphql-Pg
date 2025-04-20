@@ -1,0 +1,33 @@
+# Node modules (ya se reinstalan dentro del contenedor)
+node_modules
+
+# Salida de la build
+dist
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log y temporales
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.log
+
+# Configuración de entorno local
+.env
+.env.local
+.env.*.local
+
+# Editor/IDE
+.vscode
+.idea
+*.swp
+
+# Tests cache
+coverage
+test-results
+
+# Docker build artifacts
+Dockerfile*
+docker-compose*
